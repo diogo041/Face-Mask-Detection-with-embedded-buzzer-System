@@ -1,6 +1,0 @@
-with_mask (datasets)
-1915 images have been used in the dataset to train our model.
-
-
-https://drive.google.com/drive/folders/1mcJ85GueusC2PK85ZfpXuay1G76lWxAK?usp=sharing
-
